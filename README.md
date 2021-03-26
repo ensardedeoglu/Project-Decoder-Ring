@@ -16,6 +16,8 @@ plaintext are replaced with ciphertext, according to a fixed system; the "units"
 be single letters (the most common), pairs of letters, triplets of letters, mixtures of the
 above, and so forth.
 
+The site is published at https://ensardedeoglu.github.io/Project-Decoder-Ring/
+
 
 Screenshots:
 
