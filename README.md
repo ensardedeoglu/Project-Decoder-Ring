@@ -1,3 +1,4 @@
+
 # Project-Decoder-Ring
 
 Project description: Decoder ring
@@ -18,6 +19,12 @@ above, and so forth.
 
 Screenshots:
 
-
-
-
+![1](https://user-images.githubusercontent.com/76602960/112694079-f71e3280-8e3e-11eb-911a-749bec4a2f8b.png)
+<br />
+<br />
+<br />
+![2](https://user-images.githubusercontent.com/76602960/112694101-ff766d80-8e3e-11eb-8850-bf5c04b47236.png)
+<br />
+<br />
+<br />
+![3](https://user-images.githubusercontent.com/76602960/112694102-00a79a80-8e3f-11eb-9cb5-d0e21e78da9b.png)
